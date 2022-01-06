@@ -2,7 +2,7 @@
 
 ### Following is the one method by which we can clear our console screen in JAVA
 
-Just add the following piece of code in your class.
+- Just add the following piece of code in your class.
 
 ``` 
        //The following line of code is used to clear the console, it uses the ANSI escape code 
