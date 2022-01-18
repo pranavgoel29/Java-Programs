@@ -14,3 +14,4 @@
 ```
 
 We are using flush method to remove any unecessary value from our input stream and in other words we are removing any garbage value.
+
