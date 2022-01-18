@@ -1,5 +1,6 @@
 # Java-Programs
 
+In Java, Binary numerals are prefixed with a leading 0b (or 0B) (digit zero followed by char 'b')
 ### Following is the one method by which we can clear our console screen in JAVA
 
 - Just add the following piece of code in your class.
